@@ -1,0 +1,12 @@
+{
+    "name": "vue-sortable",
+    "description": "A Vue.js project",
+    "repos": "https://github.com/2betop/placeholder.git",
+    "main": "vue-sortable.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {
+        "sortablejs": "^1.4.2"
+    },
+    "version": "0.1.0"
+}
